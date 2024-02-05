@@ -1,0 +1,16 @@
+body{
+    background-color: #0e1117;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color:white
+}
+.cc{
+    text-align: center;
+}
+h1{
+    color: white;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+}
