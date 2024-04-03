@@ -79,10 +79,8 @@ def jokes():
 
 def crtsh():
     BASE_URL = "https://crt.sh/?q={}&output=json"
-subdomains = set()
-wildcardsubdomains = set()
-
-def crtsh():
+    subdomains = set()
+    wildcardsubdomains = set()
     domain=input(f"{blue}Enter a domain:{reset} ")
     if(domain!=""):
         try:
